@@ -1,0 +1,6 @@
+framework module PoinsMapView {
+  umbrella header "PoinsMapView.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,10 @@
+framework module PoinsIPS {
+  umbrella header "PoinsIPS.h"
+
+  export *
+  module * { export * }
+}
+
+module PoinsIPS.Swift {
+    header "PoinsIPS-Swift.h"
+}

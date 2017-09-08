@@ -1,0 +1,10 @@
+framework module PoinsNavi {
+  umbrella header "PoinsNavi.h"
+
+  export *
+  module * { export * }
+}
+
+module PoinsNavi.Swift {
+    header "PoinsNavi-Swift.h"
+}
