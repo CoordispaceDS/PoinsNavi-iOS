@@ -7,11 +7,17 @@
 ![](https://dl.dropboxusercontent.com/s/losspm0yxl099pg/launch.PNG)
 
 # Contents
-- [Requirements](#requirements)
-- [Features](#features)
-- [Other Frameworks](#other-frameworks)
-- [Installation](#installation)
-- [Usage](#usage)
+* [Requirements](#requirements)
+* [Features](#features)
+* [Other Frameworks](#other-frameworks)
+* [Installation](#installation)
+* [Usage](#usage)
+  * [swift](#swift)
+    * [View 생성 (Swift)](#view-생성-swift)
+    * [길찾기 (Swift)](#길찾기-swift)
+  * [Objective-C](#objective-c)
+    * [View 생성 (Objective C)](#view-생성-objective-c)
+    * [길찾기 (Objective C)](#길찾기-objective-c)
 
 # Requirements
 * iOS 8.0+
@@ -40,7 +46,9 @@ PoinsNavi는 다음의 외부 라이브러리를 사용하고 있습니다.
 
 # Usage
 
-### Swift
+## Swift
+
+### View 생성 (Swift)
 
 1. ViewController 내부 PoinsNaviView 생성
 * Class : PoinsNaviView
@@ -84,7 +92,26 @@ class ViewController: UIViewController {
 
 5. 실행 후 PoinsNavi의 맵 화면을 볼 수 있습니다. 
 
-### Objective-C
+### 길찾기 (Swift)
+
+매장의 index 및 매장명으로 길찾기를 할 수 있습니다. 
+1. 매장의 room index를 아는 경우
+```swift
+if let destination = poinsNaviView.getRoomInfoData(index: 6494) {
+    poinsNaviView.findPath(roomInfoData: destination)
+}
+```
+
+2. 매장명(POI명)을 아는 경우
+```swift
+if let destination = poinsNaviView.getRoomInfoData(name: "코스메데코르테") {
+    poinsNaviView.findPath(roomInfoData: destination)
+}
+```
+
+## Objective-C
+
+### View 생성 (Objective C)
 
 1. Swift 1 ~ 2 같이 Swift 프로젝트와 동일하게 리소스를 구성합니다.
 
@@ -126,5 +153,22 @@ Project > Build Settings > Build Options > Always Embed Swift Standard Libraries
 ![](https://dl.dropboxusercontent.com/s/l6jlqnr03wal2u5/buildOptions.png)
 
 4. 실행 후 PoinsNavi의 맵 화면을 볼 수 있습니다. 
+
+### 길찾기 (Objective C)
+
+매장의 index 및 매장명으로 길찾기를 할 수 있습니다. 
+1. 매장의 room index를 아는 경우
+```swift
+if let destination = poinsNaviView.getRoomInfoData(index: 6494) {
+    poinsNaviView.findPath(roomInfoData: destination)
+}
+```
+
+2. 매장명(POI명)을 아는 경우
+```swift
+if let destination = poinsNaviView.getRoomInfoData(name: "코스메데코르테") {
+    poinsNaviView.findPath(roomInfoData: destination)
+}
+```
 
 * _시뮬레이터에서는 Mapview가 동작하지 않습니다._
