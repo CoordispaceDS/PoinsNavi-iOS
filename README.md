@@ -107,6 +107,15 @@ poinsNaviView.findPath(index: 6494)
 poinsNaviView.findPath(name: "코스메데코르테")
 ```
 
+### Framework 버전 확인
+
+다음 코드로 PoinsNavi Framework의 버전을 확인할 수 있습니다.
+```swift
+if let sdkVersion = Bundle(for: PoinsNaviView.self).infoDictionary?["CFBundleVersion"] {
+    // sdkVersion is available here
+}
+```
+
 ## Objective-C
 
 ### View 생성 (Objective C)
