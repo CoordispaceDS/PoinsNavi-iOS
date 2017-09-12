@@ -97,16 +97,14 @@ class ViewController: UIViewController {
 매장의 index 및 매장명으로 길찾기를 할 수 있습니다. 
 1. 매장의 room index를 아는 경우
 ```swift
-if let destination = poinsNaviView.getRoomInfoData(index: 6494) {
-    poinsNaviView.findPath(roomInfoData: destination)
-}
+poinsNaviView.findPath(index: 6494)
 ```
 
 2. 매장명(POI명)을 아는 경우
+
+동일한 매장명을 사용하는 경우 일치하는 첫번째 검색 결과를 사용합니다. 
 ```swift
-if let destination = poinsNaviView.getRoomInfoData(name: "코스메데코르테") {
-    poinsNaviView.findPath(roomInfoData: destination)
-}
+poinsNaviView.findPath(name: "코스메데코르테")
 ```
 
 ## Objective-C
@@ -130,7 +128,8 @@ ViewController.h
 
 ViewController.m
 
-언어 설정을 직접 합니다. ('en', 'zh', 'ja', 'ko')
+언어는 다음 4가지로 설정 가능합니다. ('en', 'zh', 'ja', 'ko')
+language가 nil일 경우 시스템 언어를 사용합니다. 
 ```ObjC
 #import "ViewController.h"
 #import "PoinsNavi/PoinsNavi-Swift.h"
@@ -158,17 +157,15 @@ Project > Build Settings > Build Options > Always Embed Swift Standard Libraries
 
 매장의 index 및 매장명으로 길찾기를 할 수 있습니다. 
 1. 매장의 room index를 아는 경우
-```swift
-if let destination = poinsNaviView.getRoomInfoData(index: 6494) {
-    poinsNaviView.findPath(roomInfoData: destination)
-}
+```ObjC
+[_poinsNaviView findPathWithIndex:6494];
 ```
 
 2. 매장명(POI명)을 아는 경우
-```swift
-if let destination = poinsNaviView.getRoomInfoData(name: "코스메데코르테") {
-    poinsNaviView.findPath(roomInfoData: destination)
-}
+
+동일한 매장명을 사용하는 경우 일치하는 첫번째 검색 결과를 사용합니다. 
+```ObjC
+[_poinsNaviView findPathWithName:@"코스메데코르테"];
 ```
 
 * _시뮬레이터에서는 Mapview가 동작하지 않습니다._
