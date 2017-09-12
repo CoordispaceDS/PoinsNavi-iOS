@@ -6,39 +6,39 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		Y2VpOew09Z21AZM3M2qo4ETrZng=
+		x5VIJob32HWEzSg+IGzS2rf2k3U=
 		</data>
 		<key>ConvenienceCell.nib</key>
 		<data>
-		igLF0VljUsRpvlusq156LYaikE4=
+		vAyMfGv10vZy5tuSB6LDWwjo5Zc=
 		</data>
 		<key>EventPageContentsView.nib</key>
 		<data>
-		2IkThl1nyRTx88mp0pVZnB24Dao=
+		5iKR3awRo20NA7YNPoZGbUm3ArE=
 		</data>
 		<key>EventPageView.nib</key>
 		<data>
-		bc1003nb8/ZPiPfRiD1CsQ8OMPQ=
+		B3jIvrTSQTo6CIJyUdnOAb6UkYo=
 		</data>
 		<key>EventPopUpView.nib</key>
 		<data>
-		O4SW/2cva+oBvIvQGK5Qe8UHLVM=
+		feefbbahjmsPLZwMrL0/Dw+rHEg=
 		</data>
 		<key>FloorInfoCell.nib</key>
 		<data>
-		zTMLp6Co5vuQKFB75pGowrEtdtk=
+		4iiynZbzPRba4iREIGuCky0+CsU=
 		</data>
 		<key>FloorListView.nib</key>
 		<data>
-		0KZWXUNo6+Q0wL2qNNuXijcXSfg=
+		pSyHqy1/J+3l9iSyH/DrfXCuipY=
 		</data>
 		<key>FloorSelectCell.nib</key>
 		<data>
-		H9o7pLofqmkSMZGRiNGvy+DYrOM=
+		8ietx3nekAgCprauvVf3VQOy4Vg=
 		</data>
 		<key>FloorSelectView.nib</key>
 		<data>
-		3HqTQcYhnVKYKFBtfliWi6VR9Kg=
+		UZfI8iqXlATlgwrTsQFVvWN9Hds=
 		</data>
 		<key>Frameworks/libswiftAVFoundation.dylib</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>Headers/PoinsNavi-Swift.h</key>
 		<data>
-		NjGQgUuvBugur3YcIGNhICQ0Yb4=
+		Zah9qmEygcNG5GP7yqsZHhnMhBU=
 		</data>
 		<key>Headers/PoinsNavi.h</key>
 		<data>
@@ -98,15 +98,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		y7s6Pf9CiZlC8yG9C8Ofg2B+gro=
+		89tEL63W7PQmN5zrZ64u0Ob07ec=
 		</data>
 		<key>LoadingView.nib</key>
 		<data>
-		I0Krhijm6K01PK3CBvtf7Dp7L6k=
+		ew3d34g4eL0dl6KUEH3q3hn8YTY=
 		</data>
 		<key>LocationNameView.nib</key>
 		<data>
-		TYcEotxPxI5xnSgmUr5xVg+OiRs=
+		JVi0BmlOoaZ1mgGJ9m3ddzOGjaE=
 		</data>
 		<key>Modules/PoinsNavi.swiftmodule/i386.swiftdoc</key>
 		<data>
@@ -114,7 +114,7 @@
 		</data>
 		<key>Modules/PoinsNavi.swiftmodule/i386.swiftmodule</key>
 		<data>
-		YkEeiIrEuBqp+RAemU/W/tGRfv4=
+		BecLkrG470uAedxDafSY+I3LUz4=
 		</data>
 		<key>Modules/PoinsNavi.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -122,7 +122,7 @@
 		</data>
 		<key>Modules/PoinsNavi.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		ATIrkRmizLak4VfyH7bu5yZEpzI=
+		wxLw6/7wcVokgnfBdxNlyeJO784=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -130,27 +130,27 @@
 		</data>
 		<key>PathInfoView.nib</key>
 		<data>
-		6Kk++W9HJXyoodB/++8+BvXIcpg=
+		CIx32MRyJvgq/XPVD9mk2ezP7G0=
 		</data>
 		<key>PoinsNaviView.nib</key>
 		<data>
-		W75/rgxCFHkb5dpniTaYW0vbyKM=
+		KFC2pXFiWJhjaHZdTnFAndDmrx4=
 		</data>
 		<key>RoomInfoCell.nib</key>
 		<data>
-		9lK+G/ugd4mPh0hwsAz5t3cMxLA=
+		0H0PjnhPbx1JWTHqAoe+/ZFkxns=
 		</data>
 		<key>RoomInfoView.nib</key>
 		<data>
-		ksQq8SK/QsAgZzDVft6/+N39CUQ=
+		GJ5iQmveTCZM+0vZmfpMjj66fGQ=
 		</data>
 		<key>RoomSearchView.nib</key>
 		<data>
-		+dxTa8wIWsB4yuTMH/HJVBKBKSg=
+		+U5rMtD4ATvDkfPTem8ElmI/3fM=
 		</data>
 		<key>TutorialView.nib</key>
 		<data>
-		X96DC9fuEAgLyX9uN3iqDoDbIUI=
+		8uW33A9fuxkGRJT7+87xGY00IQU=
 		</data>
 		<key>en.lproj/PoinsLocalizable.strings</key>
 		<dict>
@@ -181,99 +181,99 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Y2VpOew09Z21AZM3M2qo4ETrZng=
+			x5VIJob32HWEzSg+IGzS2rf2k3U=
 			</data>
 			<key>hash2</key>
 			<data>
-			8QMyrNNceTPzLi7Biu5eeXJZ7XWDddONpIDNueJqK2s=
+			pc116qCJla+wRUpRpDMyg5WVeojjYST1rbmpiNTfSMA=
 			</data>
 		</dict>
 		<key>ConvenienceCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			igLF0VljUsRpvlusq156LYaikE4=
+			vAyMfGv10vZy5tuSB6LDWwjo5Zc=
 			</data>
 			<key>hash2</key>
 			<data>
-			hcdQ1WyFcixOxIqBzR08qJ5Oy3/IskoMHXuw5iXKCbc=
+			LZ7sRVhItxaQUWX6pakdZpxy5Lh30yrb9JVqrPzK1nQ=
 			</data>
 		</dict>
 		<key>EventPageContentsView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2IkThl1nyRTx88mp0pVZnB24Dao=
+			5iKR3awRo20NA7YNPoZGbUm3ArE=
 			</data>
 			<key>hash2</key>
 			<data>
-			p/h0N8cj6GqCL+bvyknsc20H+hZZVBJxk06lwFl7fFg=
+			eR+nGisTKHaba0QiLjY9vptuX42pPksgeTjDFrB9ZAk=
 			</data>
 		</dict>
 		<key>EventPageView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bc1003nb8/ZPiPfRiD1CsQ8OMPQ=
+			B3jIvrTSQTo6CIJyUdnOAb6UkYo=
 			</data>
 			<key>hash2</key>
 			<data>
-			0vo0Uyuq74vinx6fg8T/hbeacwvCEAtUNQXd8N83kdY=
+			X21X9b03qckiGSb//pyFkbpgN9SqB4YVzeLT5V6KMfk=
 			</data>
 		</dict>
 		<key>EventPopUpView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			O4SW/2cva+oBvIvQGK5Qe8UHLVM=
+			feefbbahjmsPLZwMrL0/Dw+rHEg=
 			</data>
 			<key>hash2</key>
 			<data>
-			gyfcPKtko6DiHEDY4x5mirsTzXbI++6yxJfkO8d3SH8=
+			bPVhKRD+wQW13bp2r3B2E5+5nFNhuj8AEi9ZSfceDgw=
 			</data>
 		</dict>
 		<key>FloorInfoCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			zTMLp6Co5vuQKFB75pGowrEtdtk=
+			4iiynZbzPRba4iREIGuCky0+CsU=
 			</data>
 			<key>hash2</key>
 			<data>
-			88SwSq3yU7TdAf+jtzlMCOm/bpNY0kuMOYU7+ToC01Y=
+			4VK83ldn21cJqJ7z02+ILDCUFNezOnoh2sF1mCDkKLM=
 			</data>
 		</dict>
 		<key>FloorListView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0KZWXUNo6+Q0wL2qNNuXijcXSfg=
+			pSyHqy1/J+3l9iSyH/DrfXCuipY=
 			</data>
 			<key>hash2</key>
 			<data>
-			rJlB4t+jBi6XmJnvMMBo4qyEGu8d9LUAhla5dxFzLmk=
+			5ZSbU7irZDcQtE/mrp/5SLvt3Amh88YFQ0mnrxCILI4=
 			</data>
 		</dict>
 		<key>FloorSelectCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			H9o7pLofqmkSMZGRiNGvy+DYrOM=
+			8ietx3nekAgCprauvVf3VQOy4Vg=
 			</data>
 			<key>hash2</key>
 			<data>
-			cRwh6dB/O2pQeOudU9WY7iXcsYBoRrs2V3NRvLavko4=
+			OwBPIYcHeccfYXUcehBsuH6gUdjz6JsfHy0UWuCHDFI=
 			</data>
 		</dict>
 		<key>FloorSelectView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3HqTQcYhnVKYKFBtfliWi6VR9Kg=
+			UZfI8iqXlATlgwrTsQFVvWN9Hds=
 			</data>
 			<key>hash2</key>
 			<data>
-			xSRl66B9+y3s0H/bb5JUTi81ms5CVdAA4hjkrxTIJlY=
+			95jFXjwZXyQi6EoFRxtOhYiCr68lw6yy4ERX144mR3k=
 			</data>
 		</dict>
 		<key>Frameworks/libswiftAVFoundation.dylib</key>
@@ -412,11 +412,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			NjGQgUuvBugur3YcIGNhICQ0Yb4=
+			Zah9qmEygcNG5GP7yqsZHhnMhBU=
 			</data>
 			<key>hash2</key>
 			<data>
-			SBb0QOQau/GRzPqRyWqdAO/sCmR9qC2aa2193rkVaxY=
+			BM1jR+Sk8JK73h3mr9QeJb0f0XwfxicRNL4I1EmAmyM=
 			</data>
 		</dict>
 		<key>Headers/PoinsNavi.h</key>
@@ -434,22 +434,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			I0Krhijm6K01PK3CBvtf7Dp7L6k=
+			ew3d34g4eL0dl6KUEH3q3hn8YTY=
 			</data>
 			<key>hash2</key>
 			<data>
-			3Kr+NgemP3U0G3c9jTxmHZAlxaCfuQ1x0gLtqUqec80=
+			X1ShcCMP2VjlyE7uKQ/j5m1+66bcjlqE2WLBwYyf+Og=
 			</data>
 		</dict>
 		<key>LocationNameView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			TYcEotxPxI5xnSgmUr5xVg+OiRs=
+			JVi0BmlOoaZ1mgGJ9m3ddzOGjaE=
 			</data>
 			<key>hash2</key>
 			<data>
-			QmDiTU7Dp+ibDHT1GVMKnQV4UZ0BRiu2eGnsWobE0l0=
+			/Vk66hQpKyRQo61QZvg3Ft+yyuOSJPzhbSFVW3HDaN4=
 			</data>
 		</dict>
 		<key>Modules/PoinsNavi.swiftmodule/i386.swiftdoc</key>
@@ -467,11 +467,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			YkEeiIrEuBqp+RAemU/W/tGRfv4=
+			BecLkrG470uAedxDafSY+I3LUz4=
 			</data>
 			<key>hash2</key>
 			<data>
-			8zMZ1FaVsjgcfyOaH0f+ZMaBQ0BOamGVFT7RWvMMf0Q=
+			Fj8Zs5UbqQMN/t/H+9jmpNqSc+Tca2cAsGmZmoeDcjQ=
 			</data>
 		</dict>
 		<key>Modules/PoinsNavi.swiftmodule/x86_64.swiftdoc</key>
@@ -489,11 +489,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ATIrkRmizLak4VfyH7bu5yZEpzI=
+			wxLw6/7wcVokgnfBdxNlyeJO784=
 			</data>
 			<key>hash2</key>
 			<data>
-			yhRrjoUGdifosHcN2Jovs91uGE0L8kLMGyw/tUWQubg=
+			pkwWaWgE27yq2odZcVmrcA3LKur2k07qXEI5PYraYxg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -511,66 +511,66 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			6Kk++W9HJXyoodB/++8+BvXIcpg=
+			CIx32MRyJvgq/XPVD9mk2ezP7G0=
 			</data>
 			<key>hash2</key>
 			<data>
-			GIrGA8xaA/kLAnhUXBXba2JnjD0GfkAq3ZYKA8fgiaw=
+			UZrHo22Zn0/HelYFMch5kxkrtZW7IolffBvXhH+mACQ=
 			</data>
 		</dict>
 		<key>PoinsNaviView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			W75/rgxCFHkb5dpniTaYW0vbyKM=
+			KFC2pXFiWJhjaHZdTnFAndDmrx4=
 			</data>
 			<key>hash2</key>
 			<data>
-			qmzLFJ/ERLn7lMDajXfUA6NIJdKJIzvuUOlEpQ35YQE=
+			6pRXLYN9Rc59ISYAtiulFnGiAeB7Ol3KHsmRs0+/xew=
 			</data>
 		</dict>
 		<key>RoomInfoCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9lK+G/ugd4mPh0hwsAz5t3cMxLA=
+			0H0PjnhPbx1JWTHqAoe+/ZFkxns=
 			</data>
 			<key>hash2</key>
 			<data>
-			ecfmklku417NyNitxIczaDy3FZyW1AUe4wcrlZ58dLY=
+			fioLJCOcNAEdDuz5hICoC1Zmgpb4k8fhfL6kzv8Ej2o=
 			</data>
 		</dict>
 		<key>RoomInfoView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ksQq8SK/QsAgZzDVft6/+N39CUQ=
+			GJ5iQmveTCZM+0vZmfpMjj66fGQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			eNtW2FZWBQHuIApK1FhoHo/HiB820vv2K8uPUtMmAHQ=
+			gmS5nXkpnKWR3EUjGyZXAP/f+5dfOdqASmE9JHvK6Lw=
 			</data>
 		</dict>
 		<key>RoomSearchView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+dxTa8wIWsB4yuTMH/HJVBKBKSg=
+			+U5rMtD4ATvDkfPTem8ElmI/3fM=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZePRMWnwXzQSOEsd8LZICw22kX8SYU+WFZCyQrUlpis=
+			kxqcyyRimMulVry+hvcSdGGcaNMBO3ouLzAK8Gt6gC8=
 			</data>
 		</dict>
 		<key>TutorialView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			X96DC9fuEAgLyX9uN3iqDoDbIUI=
+			8uW33A9fuxkGRJT7+87xGY00IQU=
 			</data>
 			<key>hash2</key>
 			<data>
-			oHDBopaQtu2Isr8H6UgYlRmDsrswIHGN/aMzuBW3LNA=
+			7vCqq/d/rLD0JeT6tq9Gq7/IIHj+Mfi3o1bZLIPgR9A=
 			</data>
 		</dict>
 		<key>en.lproj/PoinsLocalizable.strings</key>
