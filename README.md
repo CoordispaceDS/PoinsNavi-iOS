@@ -44,6 +44,11 @@ PoinsNavi는 다음의 외부 라이브러리를 사용하고 있습니다.
 3. Poject > General > Embedded Binaries 에 1, 2번에서 추가한 framework들을 추가합니다.
 ![](https://dl.dropboxusercontent.com/s/1gskovjujvfucq8/Embedded%20Binaries.png)
 
+4. Beacon을 통한 위치정보 사용을 위해 다음과 같이 설정을 추가합니다. <br>
+ Project > Target > Info > Custom iOS Target Properties 로 이동 후 <br>
+`+` 버튼으로 Privacy - Location Always Usage Description key를 추가합니다.
+![](https://dl.dropboxusercontent.com/s/0co5zv7823no319/customProperties.png)
+
 # Usage
 
 ## Swift
