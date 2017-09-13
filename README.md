@@ -14,10 +14,10 @@
 * [Usage](#usage)
   * [swift](#swift)
     * [View 생성 (Swift)](#view-생성-swift)
-    * [길찾기 (Swift)](#길찾기-swift)
+    * [지도보기 및 길찾기 (Swift)](#지도보기-및-길찾기-swift)
   * [Objective-C](#objective-c)
     * [View 생성 (Objective C)](#view-생성-objective-c)
-    * [길찾기 (Objective C)](#길찾기-objective-c)
+    * [지도보기 및 길찾기 (Objective C)](#지도보기-및-길찾기-objective-c)
 
 # Requirements
 * iOS 8.0+
@@ -92,19 +92,31 @@ class ViewController: UIViewController {
 
 5. 실행 후 PoinsNavi의 맵 화면을 볼 수 있습니다. 
 
-### 길찾기 (Swift)
+### 지도보기 및 길찾기 (Swift)
 
-매장의 index 및 매장명으로 길찾기를 할 수 있습니다. 
+매장의 index 및 매장명으로 매장 바로가기 및 길찾기를 할 수 있습니다. 
 1. 매장의 room index를 아는 경우
+
+* 지도보기
 ```swift
-poinsNaviView.findPath(index: 6494)
+poinsNaviView.findPosition(index: 6494, guide: false)
+```
+* 길찾기
+```swift
+poinsNaviView.findPosition(index: 6494, guide: true)
 ```
 
 2. 매장명(POI명)을 아는 경우
+동일한 매장명을 사용하는 경우 일치하는 첫번째 검색 결과를 사용합니다.
 
-동일한 매장명을 사용하는 경우 일치하는 첫번째 검색 결과를 사용합니다. 
+* 지도보기
 ```swift
-poinsNaviView.findPath(name: "코스메데코르테")
+poinsNaviView.findPosition(name: "코스메데코르테", guide: false)
+```
+
+* 길찾기
+```swift
+poinsNaviView.findPosition(name: "코스메데코르테", guide: true)
 ```
 
 ### Framework 버전 확인
@@ -162,19 +174,31 @@ Project > Build Settings > Build Options > Always Embed Swift Standard Libraries
 
 4. 실행 후 PoinsNavi의 맵 화면을 볼 수 있습니다. 
 
-### 길찾기 (Objective C)
+### 지도보기 및 길찾기 (Objective C)
 
-매장의 index 및 매장명으로 길찾기를 할 수 있습니다. 
+매장의 index 및 매장명으로 매장 바로가기 및 길찾기를 할 수 있습니다. 
 1. 매장의 room index를 아는 경우
+
+* 지도보기
 ```ObjC
-[_poinsNaviView findPathWithIndex:6494];
+[_poinsNaviView findPositionWithIndex:6494 guide:false];
+```
+* 길찾기
+```ObjC
+[_poinsNaviView findPositionWithIndex:6494 guide:true];
 ```
 
 2. 매장명(POI명)을 아는 경우
+동일한 매장명을 사용하는 경우 일치하는 첫번째 검색 결과를 사용합니다.
 
-동일한 매장명을 사용하는 경우 일치하는 첫번째 검색 결과를 사용합니다. 
+* 지도보기
 ```ObjC
-[_poinsNaviView findPathWithName:@"코스메데코르테"];
+[_poinsNaviView findPositionWithName:@"코스메데코르테" guide:false];
+```
+
+* 길찾기
+```ObjC
+[_poinsNaviView findPositionWithName:@"코스메데코르테" guide:true];
 ```
 
 * _시뮬레이터에서는 Mapview가 동작하지 않습니다._
