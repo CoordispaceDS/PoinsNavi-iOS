@@ -90,7 +90,7 @@
 		</data>
 		<key>Headers/PoinsNavi-Swift.h</key>
 		<data>
-		Zah9qmEygcNG5GP7yqsZHhnMhBU=
+		5qkFy61t7PWoSXkjSDpsPZ0xMYo=
 		</data>
 		<key>Headers/PoinsNavi.h</key>
 		<data>
@@ -98,7 +98,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		89tEL63W7PQmN5zrZ64u0Ob07ec=
+		2TbqBKxqmXejd56PIXZl5yNqnpw=
 		</data>
 		<key>LoadingView.nib</key>
 		<data>
@@ -114,7 +114,7 @@
 		</data>
 		<key>Modules/PoinsNavi.swiftmodule/i386.swiftmodule</key>
 		<data>
-		BecLkrG470uAedxDafSY+I3LUz4=
+		E+0tIcBv5XFuy+tqHe+MykgQ5b4=
 		</data>
 		<key>Modules/PoinsNavi.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -122,7 +122,7 @@
 		</data>
 		<key>Modules/PoinsNavi.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		wxLw6/7wcVokgnfBdxNlyeJO784=
+		IDTGk3dLnPwx0tDNr7cvMDAvZBQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -412,11 +412,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Zah9qmEygcNG5GP7yqsZHhnMhBU=
+			5qkFy61t7PWoSXkjSDpsPZ0xMYo=
 			</data>
 			<key>hash2</key>
 			<data>
-			BM1jR+Sk8JK73h3mr9QeJb0f0XwfxicRNL4I1EmAmyM=
+			+PGMDkxwjJYkfNUV2di7jcSOaxPdBUmvfQAKWqE26m4=
 			</data>
 		</dict>
 		<key>Headers/PoinsNavi.h</key>
@@ -467,11 +467,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			BecLkrG470uAedxDafSY+I3LUz4=
+			E+0tIcBv5XFuy+tqHe+MykgQ5b4=
 			</data>
 			<key>hash2</key>
 			<data>
-			Fj8Zs5UbqQMN/t/H+9jmpNqSc+Tca2cAsGmZmoeDcjQ=
+			YLW/H55UsBp0AdaYfPS1JwMNcyyCZjNR2H6GxtYwT28=
 			</data>
 		</dict>
 		<key>Modules/PoinsNavi.swiftmodule/x86_64.swiftdoc</key>
@@ -489,11 +489,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wxLw6/7wcVokgnfBdxNlyeJO784=
+			IDTGk3dLnPwx0tDNr7cvMDAvZBQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			pkwWaWgE27yq2odZcVmrcA3LKur2k07qXEI5PYraYxg=
+			1YxVSG3k1+lZklJul5KqIwY8kkYigta9fyoNSJOs+GU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -302,8 +302,8 @@ SWIFT_CLASS("_TtC9PoinsNavi13PoinsNaviView")
 - (void)didUpdate:(NSInteger)mapId :(float)x :(float)y :(NSInteger)l :(float)h;
 - (void)needNetworkUpdateWithNeedUpdate:(BOOL)needUpdate;
 - (void)updatePathGuideWithDistance:(NSInteger)distance by:(NSInteger)by direction:(NSInteger)direction destination:(NSString * _Nonnull)destination;
-- (void)findPathWithIndex:(NSInteger)index;
-- (void)findPathWithName:(NSString * _Nonnull)name;
+- (void)findPositionWithIndex:(NSInteger)index guide:(BOOL)guide;
+- (void)findPositionWithName:(NSString * _Nonnull)name guide:(BOOL)guide;
 - (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
 @end
