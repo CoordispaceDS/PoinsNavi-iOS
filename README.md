@@ -33,7 +33,6 @@ PoinsNavi는 다음의 외부 라이브러리를 사용하고 있습니다.
 * [Alamofire](https://github.com/trikha/Almofire) : HTTP networking library
 * [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) : JSON parser
 * [SQLite.swift](https://github.com/stephencelis/SQLite.swift) : sqlite library
-* [Toast-Swift](https://github.com/scalessec/Toast-Swift) : toast popup library
 
 # Installation
 1. **PoinsIPS.framework, PoinsNavi.framework, PoinsMapView.framework**를 프로젝트에 추가합니다.
